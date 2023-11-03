@@ -1,12 +1,12 @@
-## Hi there 👋
+<h1>We are HolyGames!</h1>
 
-<!--
+<p>We are a group of gaming enthusiasts from Germany.</p>
+<p>We not only play Games but also create them! </p>
+<p>We take things we love from Games and take it as inspiration to create our own with them.</p>
+<p>We also make some more challenging Games.</p>
 
-**Here are some ideas to get you started:**
+<h2>Our Games:</h2>
+<a href="https://github.com/Block-Game/">Block Game</a>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h2>Our Discord Bots:</h2>
+<a href="https://discord.com/api/oauth2/authorize?client_id=1130988088961806388&permissions=274877910016&scope=bot">Translation Bot</a>
