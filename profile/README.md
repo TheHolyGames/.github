@@ -6,7 +6,7 @@
 <p>We also make some more challenging Games.</p>
 
 <h2>Our Games:</h2>
-<a href="https://github.com/Block-Game/">Block Game</a>
+<a href="https://github.com/Nisiphop/Block-Game/">Block Game</a>
 
 <h2>Our Discord Bots:</h2>
 <a href="https://discord.com/api/oauth2/authorize?client_id=1130988088961806388&permissions=274877910016&scope=bot">Translation Bot</a>
